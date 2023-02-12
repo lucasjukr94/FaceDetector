@@ -190,11 +190,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Micro\\Desktop\\FaceDetector\\FaceDetector\\FaceDetector\\FaceDetector.csproj",
+      "projectUniqueName": "C:\\Users\\Micro\\source\\repos\\Portfolio\\FaceDetector\\FaceDetector\\FaceDetector.csproj",
       "projectName": "FaceDetector",
-      "projectPath": "C:\\Users\\Micro\\Desktop\\FaceDetector\\FaceDetector\\FaceDetector\\FaceDetector.csproj",
+      "projectPath": "C:\\Users\\Micro\\source\\repos\\Portfolio\\FaceDetector\\FaceDetector\\FaceDetector.csproj",
       "packagesPath": "C:\\Users\\Micro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Micro\\Desktop\\FaceDetector\\FaceDetector\\FaceDetector\\obj\\",
+      "outputPath": "C:\\Users\\Micro\\source\\repos\\Portfolio\\FaceDetector\\FaceDetector\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Micro\\AppData\\Roaming\\NuGet\\NuGet.Config",

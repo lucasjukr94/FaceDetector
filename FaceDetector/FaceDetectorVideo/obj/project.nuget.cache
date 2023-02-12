@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "drlC+lBrKnCAiScqITabBl5lyUXfgWTKldVV62jx1Hcu3Ezs8knr6VX60GwnK6E3v4EAPhjcvOpO0LT0HM1B9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Micro\\source\\repos\\Portfolio\\FaceDetector\\FaceDetectorVideo\\FaceDetectorVideo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Micro\\.nuget\\packages\\opencvsharp4\\4.7.0.20230115\\opencvsharp4.4.7.0.20230115.nupkg.sha512",
+    "C:\\Users\\Micro\\.nuget\\packages\\opencvsharp4.runtime.win\\4.7.0.20230115\\opencvsharp4.runtime.win.4.7.0.20230115.nupkg.sha512",
+    "C:\\Users\\Micro\\.nuget\\packages\\opencvsharp4.windows\\4.7.0.20230115\\opencvsharp4.windows.4.7.0.20230115.nupkg.sha512",
+    "C:\\Users\\Micro\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Micro\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
